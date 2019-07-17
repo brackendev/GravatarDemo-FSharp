@@ -28,11 +28,6 @@ dotnet run image email@example.com
 dotnet run profile email@example.com
 ```
 
-## Acknowledgements
-
-* The [Automattic](http://automattic.com/) team for running and supporting Gravatar's free service.
-* [Don Syme](https://en.wikipedia.org/wiki/Don_Syme) and the [F# core engineers](https://fsharp.github.io), [team](https://github.com/orgs/pharo-project/people), and [contributors](https://github.com/fsharp/fsharp/graphs/contributors) for [F#](https://www.fsharp.org/), the mature, open source, cross-platform, functional-first programming language.
-
 ## Author
 
 [brackendev](https://www.github.com/brackendev)
