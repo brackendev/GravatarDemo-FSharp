@@ -7,10 +7,9 @@ GravatarDemo-FSharp
 
 **F# implementation to interact with the [Gravatar API](https://en.gravatar.com/site/implement/).**
 
-([brackendev/FSharp-Bootstrap.sh](https://gist.github.com/brackendev/17cb61112493e4bc906e0d6f7d3ee11b) was used for project initialization.)
-
 * [.NET Standard 2.0](https://docs.microsoft.com/en-us/dotnet/standard/net-standard) reference platform.
 * Tests included.
+* [brackendev/FSharp-Bootstrap.sh](https://gist.github.com/brackendev/17cb61112493e4bc906e0d6f7d3ee11b) was used for project initialization.
 
 ## Installation
 
