@@ -15,7 +15,7 @@ GravatarDemo-FSharp
 ## Installation
 
 1. Install and setup [.NET Core](https://dotnet.microsoft.com/download).
-2. Download this project.
+2. Open this project in Visual Studio or the IDE of your choice.
 
 ## Example Usage
 
