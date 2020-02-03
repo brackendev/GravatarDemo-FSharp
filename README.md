@@ -18,7 +18,7 @@ GravatarDemo-FSharp
 
 ## Example Usage
 
-In a shell, in the project's "Gravatar.Console" directory, execute:
+In a shell (in the project's "Gravatar.Console" directory) execute:
 
 ```bash
 dotnet run image email@example.com
