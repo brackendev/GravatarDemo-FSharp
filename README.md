@@ -1,4 +1,4 @@
-_My Gravatar demo projects are for users to get acquainted with languages and platforms with something more than a "Hello World" example. Versions are available for [Clojure](https://github.com/brackendev/GravatarDemo-Clojure), [F#](https://github.com/brackendev/GravatarDemo-FSharp), [Newspeak](https://github.com/brackendev/GravatarDemo-Newspeak), [Pharo](https://github.com/brackendev/GravatarDemo-Pharo), and [Squeak](https://github.com/brackendev/GravatarDemo-Squeak)._
+_My Gravatar demo projects are for users to get acquainted with languages and platforms with something more than a "Hello World" example. Versions are available for [Clojure](https://github.com/brackendev/GravatarDemo-Clojure), [F#](https://github.com/brackendev/GravatarDemo-FSharp), [Newspeak](https://github.com/brackendev/GravatarDemo-Newspeak), [Pharo](https://github.com/brackendev/GravatarDemo-Pharo), [Racket](https://github.com/brackendev/GravatarDemo-Racket), and [Squeak](https://github.com/brackendev/GravatarDemo-Squeak)._
 
 - - -
 
@@ -13,16 +13,16 @@ GravatarDemo-FSharp
 
 ## Installation
 
-1. Install and setup [.NET Core](https://dotnet.microsoft.com/download).
-2. Open this project in Visual Studio or the IDE of your choice.
+* Install and setup [.NET Core](https://dotnet.microsoft.com/download).
 
 ## Example Usage
 
-In a shell (in the project's "Gravatar.Console" directory) execute:
+Execute in a shell (in the project's _Gravatar.Console_ directory):
 
 ```bash
 dotnet run image email@example.com
 ```
+
 ```bash
 dotnet run profile email@example.com
 ```
@@ -39,6 +39,7 @@ GravatarSDK-FSharp is released under the MIT license. See the LICENSE file for m
 
 ## Useful Links
 
+* [/r/fsharp](https://www.reddit.com/r/fsharp/) [Reddit]
 * [F# Guide](https://docs.microsoft.com/en-us/dotnet/fsharp/)
 * [brackendev/FSharp-Bootstrap.sh](https://gist.github.com/brackendev/17cb61112493e4bc906e0d6f7d3ee11b)
 * [fsharp.org](https://www.fsharp.org/)
