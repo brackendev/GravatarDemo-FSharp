@@ -11,6 +11,10 @@ GravatarDemo-FSharp
 * Tests included.
 * [brackendev/FSharp-Bootstrap.sh](https://gist.github.com/brackendev/17cb61112493e4bc906e0d6f7d3ee11b) was used for project initialization.
 
+## TODO
+
+- [ ] Support the latest .NET Standard release.
+
 ## Installation
 
 1. Download this project.
